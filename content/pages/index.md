@@ -122,7 +122,7 @@ sections:
         justifyContent: center
     type: FeaturedPostsSection
   - elementId: ''
-    variant: variant-a
+    variant: variant-b
     colors: colors-a
     backgroundWidth: full
     title: About us
