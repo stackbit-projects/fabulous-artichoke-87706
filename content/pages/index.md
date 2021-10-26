@@ -33,7 +33,7 @@ sections:
         style: secondary
       - label: DO something
         altText: Learn more
-        url: /
+        url: about
         showIcon: false
         icon: arrowLeft
         iconPosition: right
