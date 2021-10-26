@@ -31,7 +31,7 @@ sections:
         label: Learn More
         url: 'https://www.stackbit.com/'
         style: secondary
-      - label: Learn more
+      - label: DO something
         altText: Learn more
         url: /
         showIcon: false
