@@ -142,7 +142,7 @@ sections:
           - pt-12
           - pb-12
         alignItems: flex-end
-        justifyContent: center
+        justifyContent: flex-end
       title:
         fontWeight: 700
         fontStyle: normal
