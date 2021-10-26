@@ -13,11 +13,6 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
       - label: Learn more
         altText: Learn more
         url: /
@@ -27,6 +22,11 @@ sections:
         style: link
         elementId: ''
         type: Link
+      - type: Button
+        label: Get Started
+        url: 'https://www.stackbit.com/'
+        style: primary
+        elementId: hero-main-button
       - type: Button
         label: Learn More
         url: 'https://www.stackbit.com/'
